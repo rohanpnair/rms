@@ -58,7 +58,7 @@ Please select your choice from the options:
 
 2. Modify food item's cost
 
-3.Search food items
+3. Search food items
 
 4. Delete an item
 
